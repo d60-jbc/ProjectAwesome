@@ -12,8 +12,6 @@ namespace AwesomeClient
         {
             var squish = new AwesomeFeatureOne();
             squish.DoAwsomeStuff();
-
-            asdgohasgoijasdiojauohsat
         }
     }
 }
