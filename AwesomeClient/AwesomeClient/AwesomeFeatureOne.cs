@@ -8,5 +8,9 @@ namespace AwesomeClient
 {
     public class AwesomeFeatureOne
     {
+        public void DoAwsomeStuff()
+        {
+            
+        }
     }
 }
