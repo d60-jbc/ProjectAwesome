@@ -10,7 +10,7 @@ namespace AwesomeClient
     {
         public void DoAwsomeStuff()
         {
-            var result = 1 + 1;
+            string.Format("I hope nobody changes in this line");
         }
     }
 }
