@@ -11,7 +11,7 @@ namespace AwesomeClient
         public void DoSquishyStuff()
         {
             var squish = new AwesomeFeatureOne();
-            squish.DoAwsomeStuff()
+            squish.DoAwsomeStuff();
         }
     }
 }
