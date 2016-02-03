@@ -11,6 +11,7 @@ namespace AwesomeClient
         public void DoAwsomeStuff()
         {
             string.Format("I hope nobody changes in this line");
+            Console.WriteLine("sss");
         }
     }
 }
