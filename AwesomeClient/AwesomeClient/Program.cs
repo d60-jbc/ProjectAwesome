@@ -11,6 +11,7 @@ namespace AwesomeClient
         static void Main(string[] args)
         {
             Console.WriteLine("This should take care of it!");
+            Console.WriteLine("The fix");
         }
     }
 }
